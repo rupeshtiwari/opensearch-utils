@@ -1,0 +1,3032 @@
+[
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.12-000110",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.12-000110",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.12-000110",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.13-000111",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.13-000111",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.13-000111",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.14-000112",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.14-000112",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.14-000112",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.15-000113",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.15-000113",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.15-000113",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.16-000114",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.16-000114",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.16-000114",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.17-000115",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.17-000115",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.17-000115",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.18-000116",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.18-000116",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.18-000116",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.19-000117",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.19-000117",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.19-000117",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-reports-definitions",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-reports-definitions",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-reports-definitions",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro_security",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "10",
+        "store": "101.7kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro_security",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "10",
+        "store": "101.7kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro_security",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "10",
+        "store": "131.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-reports-instances",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-reports-instances",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-reports-instances",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-observability",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-observability",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-observability",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".aws_cold_catalog_1",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".aws_cold_catalog_1",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".aws_cold_catalog_1",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-log-types-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "16d15d38f0a5b2ddd9f18b8d60c49c4e"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "747358dc222151161d7927198a18d6da"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "f1a55b1cd8f0521fadbc584620808344"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "16d15d38f0a5b2ddd9f18b8d60c49c4e"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "747358dc222151161d7927198a18d6da"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "f1a55b1cd8f0521fadbc584620808344"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "16d15d38f0a5b2ddd9f18b8d60c49c4e"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "747358dc222151161d7927198a18d6da"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "f1a55b1cd8f0521fadbc584620808344"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.2kb",
+        "ip": "x.x.x.x",
+        "node": "16d15d38f0a5b2ddd9f18b8d60c49c4e"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.2kb",
+        "ip": "x.x.x.x",
+        "node": "747358dc222151161d7927198a18d6da"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.2kb",
+        "ip": "x.x.x.x",
+        "node": "f1a55b1cd8f0521fadbc584620808344"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "16d15d38f0a5b2ddd9f18b8d60c49c4e"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "747358dc222151161d7927198a18d6da"
+    },
+    {
+        "index": "my_cold_index",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "f1a55b1cd8f0521fadbc584620808344"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.07-000105",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.07-000105",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.07-000105",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-sap-pre-packaged-rules-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.09-000107",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.09-000107",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.09-000107",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.22-000120",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.22-000120",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.22-000120",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.24-000122",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.24-000122",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.24-000122",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.26-000124",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.26-000124",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.26-000124",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.28-000126",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.28-000126",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.28-000126",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.10-000108",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.10-000108",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.10-000108",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.05-000132",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.05-000132",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.05-000132",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.03-000130",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.03-000130",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.03-000130",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "fruit",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "fruit",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "fruit",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "fruit",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "fruit",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "fruit",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "fruit",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "fruit",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "fruit",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "fruit",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.5kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "fruit",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.5kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "fruit",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.5kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "fruit",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "fruit",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "fruit",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.20-000118",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.20-000118",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.20-000118",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.01-000128",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.01-000128",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.01-000128",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.02-000129",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.02-000129",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.02-000129",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.21-000119",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.21-000119",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.21-000119",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.3kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.3kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.3kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-staging-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.06-000104",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.06-000104",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.06-000104",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.08-000106",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.08-000106",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.08-000106",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-email_conversations-000003",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "6",
+        "store": "7.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-email_conversations-000003",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "6",
+        "store": "7.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-email_conversations-000003",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "6",
+        "store": "7.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-email_conversations-000002",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "13",
+        "store": "9.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-email_conversations-000002",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "13",
+        "store": "9.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-email_conversations-000002",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "13",
+        "store": "9.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-email_conversations-000001",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "11",
+        "store": "9.1kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-email_conversations-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "11",
+        "store": "9.1kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-email_conversations-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "11",
+        "store": "9.1kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.23-000121",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.23-000121",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.23-000121",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.25-000123",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.25-000123",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.25-000123",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.11-000109",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.11-000109",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.11-000109",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.27-000125",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.27-000125",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.27-000125",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".kibana_1",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "80",
+        "store": "69.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".kibana_1",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "80",
+        "store": "69.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".kibana_1",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "80",
+        "store": "69.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.29-000127",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.29-000127",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.02.29-000127",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000003",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000003",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000003",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000003",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000003",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000003",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000003",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000003",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000003",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000003",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000003",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000003",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000003",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000003",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000003",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".plugins-ml-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "opensearch_dashboards_sample_data_logs",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "14074",
+        "store": "9.1mb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "opensearch_dashboards_sample_data_logs",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "14074",
+        "store": "9.1mb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "opensearch_dashboards_sample_data_logs",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "14074",
+        "store": "9.1mb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.2kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.2kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.2kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".ds-logs-redis-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000001",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000001",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000001",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000001",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000001",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000001",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000001",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "7.6kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000001",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "7.6kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000001",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "7.6kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000001",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000001",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000001",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "3.9kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000001",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000001",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000002",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000002",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000002",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000002",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000002",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000002",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000002",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000002",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000002",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000002",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000002",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000002",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "208b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": "log-000002",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "4kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": "log-000002",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "4kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": "log-000002",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "4kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "2",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "3",
+        "store": "34.1kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "3",
+        "store": "5.7kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "2",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "3",
+        "store": "33.2kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "1",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "4.9kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "1",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "24.4kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "3",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "3",
+        "store": "29.9kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "3",
+        "store": "5.5kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "3",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "3",
+        "store": "5.7kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "5.4kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "4",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "5.4kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "4",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "2",
+        "store": "5.4kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "236b",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "236b",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-job-scheduler-lock",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "0",
+        "store": "236b",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.06-000133",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.06-000133",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.06-000133",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.04-000131",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.04-000131",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opendistro-ism-managed-index-history-2024.03.04-000131",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": null,
+        "store": null,
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "index": ".opensearch-notifications-config",
+        "shard": "0",
+        "prirep": "p",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "7.5kb",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "index": ".opensearch-notifications-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "7.5kb",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "index": ".opensearch-notifications-config",
+        "shard": "0",
+        "prirep": "r",
+        "state": "STARTED",
+        "docs": "1",
+        "store": "7.5kb",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    }
+]

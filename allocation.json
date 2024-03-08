@@ -1,0 +1,68 @@
+[
+    {
+        "shards": "5",
+        "disk.indices": "5kb",
+        "disk.used": "208b",
+        "disk.avail": "19.9tb",
+        "disk.total": "20tb",
+        "disk.percent": "0",
+        "host": "x.x.x.x",
+        "ip": "x.x.x.x",
+        "node": "16d15d38f0a5b2ddd9f18b8d60c49c4e"
+    },
+    {
+        "shards": "96",
+        "disk.indices": "14.6mb",
+        "disk.used": "36.7mb",
+        "disk.avail": "98.2gb",
+        "disk.total": "98.2gb",
+        "disk.percent": "0",
+        "host": "x.x.x.x",
+        "ip": "x.x.x.x",
+        "node": "ba83b35a372de0680e4d3b945b7f101d"
+    },
+    {
+        "shards": "5",
+        "disk.indices": "5kb",
+        "disk.used": "4.4kb",
+        "disk.avail": "19.9tb",
+        "disk.total": "20tb",
+        "disk.percent": "0",
+        "host": "x.x.x.x",
+        "ip": "x.x.x.x",
+        "node": "747358dc222151161d7927198a18d6da"
+    },
+    {
+        "shards": "96",
+        "disk.indices": "14.7mb",
+        "disk.used": "36.9mb",
+        "disk.avail": "98.2gb",
+        "disk.total": "98.2gb",
+        "disk.percent": "0",
+        "host": "x.x.x.x",
+        "ip": "x.x.x.x",
+        "node": "56a7fbd2ac96ecabccc8f489b420eac4"
+    },
+    {
+        "shards": "96",
+        "disk.indices": "14.7mb",
+        "disk.used": "36.7mb",
+        "disk.avail": "98.2gb",
+        "disk.total": "98.2gb",
+        "disk.percent": "0",
+        "host": "x.x.x.x",
+        "ip": "x.x.x.x",
+        "node": "8eaead8c2ec25978fd411ee0e5df7025"
+    },
+    {
+        "shards": "5",
+        "disk.indices": "5kb",
+        "disk.used": "416b",
+        "disk.avail": "19.9tb",
+        "disk.total": "20tb",
+        "disk.percent": "0",
+        "host": "x.x.x.x",
+        "ip": "x.x.x.x",
+        "node": "f1a55b1cd8f0521fadbc584620808344"
+    }
+]

@@ -3,13 +3,13 @@
 GET _cat/allocation?format=json
 ```
 
-![allocation-os](allocation-aos.png)
+![allocation-os](./allocation-aos.png)
 
 ```py
 python3 ./allocation.py
 ```
 
-![allocation](allocation.png)
+![allocation](./allocation.png)
 
 
 
@@ -17,10 +17,10 @@ python3 ./allocation.py
 GET _cat/shards?format=json
 ```
 
-![shards-aos](shards-aos.png)
+![shards-aos](./shards-aos.png)
 
 ```py
 python3 ./shards.py
 ```
 
- ![shards](shards.png)
+ ![shards](./shards.png)
